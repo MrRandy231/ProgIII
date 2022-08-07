@@ -1,0 +1,10 @@
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\PROGRAMACIÓN II\CALCULADORA\Agenda Eléctronica\Agenda Eléctronica\bin\Debug\Agenda Eléctronica.exe.config
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\PROGRAMACIÓN II\CALCULADORA\Agenda Eléctronica\Agenda Eléctronica\bin\Debug\Agenda Eléctronica.exe
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\PROGRAMACIÓN II\CALCULADORA\Agenda Eléctronica\Agenda Eléctronica\bin\Debug\Agenda Eléctronica.pdb
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\PROGRAMACIÓN II\CALCULADORA\Agenda Eléctronica\Agenda Eléctronica\obj\Debug\Agenda Eléctronica.csproj.AssemblyReference.cache
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\PROGRAMACIÓN II\CALCULADORA\Agenda Eléctronica\Agenda Eléctronica\obj\Debug\Agenda Eléctronica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\PROGRAMACIÓN II\CALCULADORA\Agenda Eléctronica\Agenda Eléctronica\obj\Debug\Agenda_Eléctronica.Properties.Resources.resources
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\PROGRAMACIÓN II\CALCULADORA\Agenda Eléctronica\Agenda Eléctronica\obj\Debug\Agenda Eléctronica.csproj.GenerateResource.cache
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\PROGRAMACIÓN II\CALCULADORA\Agenda Eléctronica\Agenda Eléctronica\obj\Debug\Agenda Eléctronica.csproj.CoreCompileInputs.cache
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\PROGRAMACIÓN II\CALCULADORA\Agenda Eléctronica\Agenda Eléctronica\obj\Debug\Agenda Eléctronica.exe
+C:\Users\Randy Mota\Desktop\DOCS\ITLA\4TO CUATRIMESTRE\PROGRAMACIÓN II\CALCULADORA\Agenda Eléctronica\Agenda Eléctronica\obj\Debug\Agenda Eléctronica.pdb
